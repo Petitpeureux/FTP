@@ -53,6 +53,10 @@ pasv_enable=YES
 pasv_min_port=40000
 pasv_max_port=50000
 pasv_address=172.78.0.20  # Remplacez par votre IP
+
+#rsa_cert_file=/etc/ssl/certs/ssl-cert-snakeoil.pem
+#rsa_private_key_file=/etc/ssl/private/ssl-cert-snakeoil.key
+#ssl_enable=NO
 ```
 
 #### Création utilisateur
